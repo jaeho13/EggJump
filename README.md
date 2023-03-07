@@ -35,3 +35,6 @@ Unity 엔진을 이용한 간단한 게임을 개발하기
 
 ## RESULT
 
+![KakaoTalk_20230308_041756763](https://user-images.githubusercontent.com/111284065/223527933-5a9f42af-3fb1-4d76-89f6-d93ee870284a.png)
+
+![KakaoTalk_20230308_041647990 (1)](https://user-images.githubusercontent.com/111284065/223529376-9524b9e6-1292-40a3-a0d5-4a0555c85ce8.gif)
